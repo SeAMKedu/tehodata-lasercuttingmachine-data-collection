@@ -77,7 +77,7 @@ Lista sovelluksista:
 - HeidiSQL (Asentuu MariaDB sovelluksen yhteydessä halutessa)
 - Power BI (Kaavioiden luontiin ja datan visualisointi)
 
-Tästä GitHub repositorista tarpeellisin ladattava on vain [mariadbCon.py](https://github.com/SaKaarle/tehodata-lasercuttingmachine-data-collection/blob/master/mariadbCon.py) -tiedosto joka siirretään Raspberry Pi:lle / yhden piirilevyn tietokoneeseen.
+Tästä GitHub repositorista tarpeellisin ladattava on vain [mariadbCon.py](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/blob/main/mariadbCon.py) -tiedosto joka siirretään Raspberry Pi:lle / yhden piirilevyn tietokoneeseen.
 
 
 ## Raspberry Pi tai vastaava yhden piirilevyn tietokone
@@ -238,7 +238,7 @@ Crontab on yksinkertainen vaihtoehto laittamaan palveluita käyntiin laitteen k�
 Tässä esimerkissä tein Raspberry Pi OS:n natiiville SystemD palvelulle käynnistyskäskyt.
 
 ## SystemD startup konfigurointi
-![SystemD config example](https://github.com/SaKaarle/tehodata-lasercuttingmachine-data-collection/blob/master/kuvat/Putty%20Sudo%20Nano%20ikkuna.png)
+![SystemD config example](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/blob/main/kuvat/Putty%20Sudo%20Nano%20ikkuna.png)
 
 Jos jostain syystä ei ole asennettuna `systemd` pakettia, se pystytään asentamaan komennolla: `sudo apt install libsystemd-dev` tälläisen paketinasennuksen jälkeen on suositeltavaa käynnistää laite uusiksi
 
@@ -331,10 +331,10 @@ Apr 25 10:30:28 rpi3B systemd[1]: Started Python Script LaserMachine.
 
 # Python ohjelman käyttö
 
-[Tiedosto mariadbCon.py](https://github.com/SaKaarle/tehodata-lasercuttingmachine-data-collection/blob/master/mariadbCon.py) on ladattavissa ja siirrettävissä käyttöönottoa varten määritettyyn kansioon, kuten SystemD esimerkissäni olen käyttänyt `/home/pi/Desktop/sshVSC/mariadbCon.py` osoitetta.
+[Tiedosto mariadbCon.py](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/blob/main/mariadbCon.py) on ladattavissa ja siirrettävissä käyttöönottoa varten määritettyyn kansioon, kuten SystemD esimerkissäni olen käyttänyt `/home/pi/Desktop/sshVSC/mariadbCon.py` osoitetta.
 Python koodi tarvitsee muutoksia, jotka on `mariadbCon.py` -tiedostoon merkitty `#` -kommentteina.
  
-![Selitys visuaalisesti mikä on kommentti.](https://github.com/SaKaarle/tehodata-lasercuttingmachine-data-collection/blob/master/kuvat/T%C3%A4m%C3%A4%20on%20kommentti.png)
+![Selitys visuaalisesti mikä on kommentti.](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/blob/main/kuvat/T%C3%A4m%C3%A4%20on%20kommentti.png)
  
 Risuaita rivinalussa on kommentti, jota ohjelma ei pysty lukemaan. Sinne voidaan kirjoittaa mitä vain eikä se häiritse ohjelman suorittamista.
 
@@ -357,7 +357,7 @@ Ohjelmakoodiin on määritettävä muutoksia saadakseen se toimivaksi omaan käy
  
 Python ohjelmassa on rivillä 69 määritetty tiedostopolku alla olevan kuvanmukaisesti:
  
-![Tiedostopolku kuvankaappaus](https://github.com/SaKaarle/tehodata-lasercuttingmachine-data-collection/blob/master/kuvat/tiedostopolku.png)
+![Tiedostopolku kuvankaappaus](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/blob/main/kuvat/tiedostopolku.png)
  
 ## Käyttäjätilikredentiaalit JSON tiedostoon
  
@@ -377,11 +377,11 @@ Alla on esimerkki tiedostosta `userconf.json`:
 }
 ```
 
-Tiedoston voi ladata [täältä.](https://github.com/SaKaarle/tehodata-lasercuttingmachine-data-collection/blob/master/userconf.json)
+Tiedoston voi ladata [täältä.](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/blob/main/userconf.json)
 Tämän `userconf.json` tiedosto luonnin jälkeen on hyvä varmistaa, että ohjelmakoodi lukee oikean tiedoston saadakseen yhteyden MariaDB -tietokantaan.
 Kuvassa on esimerkki, missä pystytään tarkistamaan minkä tiedoston ohjelma lukee.
  
-![userconf kredentiaalitiedosto](https://github.com/SaKaarle/tehodata-lasercuttingmachine-data-collection/blob/master/kuvat/MariaDB%20connect.png)
+![userconf kredentiaalitiedosto](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/blob/main/kuvat/MariaDB%20connect.png)
  
 Kuvassa ohjelma lukee `jsonPath` määritetystä tiedostopolusta `userconfHome.json` -tiedoston. Tämä pitää varmistaa, että yhteys onnistuu halutulle MariaDB -tietokannalle
 
