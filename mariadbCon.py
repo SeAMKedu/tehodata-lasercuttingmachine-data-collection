@@ -47,7 +47,7 @@ MACHINE_STATE_PART_READY = 7
 
 
 # variables
-machine_id ="Byfib8025"
+machine_id ="machine1"
 connection_succ = False
 measuring_started = False
 start_time = None
