@@ -22,7 +22,7 @@ MACHINE_STATE_ALARM = 4
 # program started
 print("Program running..")
 # variables
-machine_id ="Byfib8025"
+machine_id ="machine1"
 measuring_started = False
 start_time = None
 end_time = None
