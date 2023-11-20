@@ -523,6 +523,8 @@ pi@rpi3B:~ $ sudo systemctl status dhcpcd
 # Tulokset
 Tulossa pian...
 
+[Power Bi raportti ja data](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/tree/main/PowerBi_esimerkki)
+
 # Lisenssi
 Dokumentit lisensoitu:
 - [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
