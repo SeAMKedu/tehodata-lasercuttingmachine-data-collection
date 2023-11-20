@@ -1,0 +1,3831 @@
+[
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:24:56.140869",
+          "End": "2023-04-20 16:25:03.059205",
+          "Duration": "0:00:06.918336",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:03.173784",
+          "End": "2023-04-20 16:25:05.580270",
+          "Duration": "0:00:02.406486",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:05.695165",
+          "End": "2023-04-20 16:25:07.500190",
+          "Duration": "0:00:01.805025",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:07.620762",
+          "End": "2023-04-20 16:25:10.930221",
+          "Duration": "0:00:03.309459",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:11.048350",
+          "End": "2023-04-20 16:25:18.867499",
+          "Duration": "0:00:07.819149",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:18.993112",
+          "End": "2023-04-20 16:25:39.443348",
+          "Duration": "0:00:20.450236",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:39.568027",
+          "End": "2023-04-20 16:25:40.771797",
+          "Duration": "0:00:01.203770",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:40.894236",
+          "End": "2023-04-20 16:25:41.796780",
+          "Duration": "0:00:00.902544",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:41.925980",
+          "End": "2023-04-20 16:25:50.647951",
+          "Duration": "0:00:08.721971",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:50.779967",
+          "End": "2023-04-20 16:25:54.690373",
+          "Duration": "0:00:03.910406",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:25:54.822308",
+          "End": "2023-04-20 16:26:36.025165",
+          "Duration": "0:00:41.202857",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:28:05.451105",
+          "End": "2023-04-20 16:28:10.865350",
+          "Duration": "0:00:05.414245",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:28:11.007516",
+          "End": "2023-04-20 16:28:17.022642",
+          "Duration": "0:00:06.015126",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:28:17.167192",
+          "End": "2023-04-20 16:28:20.776964",
+          "Duration": "0:00:03.609772",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:29:06.026503",
+          "End": "2023-04-20 16:41:18.886962",
+          "Duration": "0:12:12.860459",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:42:41.679581",
+          "End": "2023-04-20 16:42:43.188353",
+          "Duration": "0:00:01.508772",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:42:43.362359",
+          "End": "2023-04-20 16:42:46.069490",
+          "Duration": "0:00:02.707131",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:42:46.216612",
+          "End": "2023-04-20 16:42:51.932719",
+          "Duration": "0:00:05.716107",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:42:52.096505",
+          "End": "2023-04-20 16:42:55.104334",
+          "Duration": "0:00:03.007829",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:42:55.240712",
+          "End": "2023-04-20 16:42:56.142977",
+          "Duration": "0:00:00.902265",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:42:56.296395",
+          "End": "2023-04-20 16:42:57.198842",
+          "Duration": "0:00:00.902447",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:42:57.361780",
+          "End": "2023-04-20 16:42:58.264284",
+          "Duration": "0:00:00.902504",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:42:58.421787",
+          "End": "2023-04-20 16:43:01.730390",
+          "Duration": "0:00:03.308603",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:43:01.889221",
+          "End": "2023-04-20 16:43:06.400457",
+          "Duration": "0:00:04.511236",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:43:06.544080",
+          "End": "2023-04-20 16:43:08.348766",
+          "Duration": "0:00:01.804686",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:43:08.511761",
+          "End": "2023-04-20 16:43:11.218925",
+          "Duration": "0:00:02.707164",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:43:11.394046",
+          "End": "2023-04-20 16:43:12.897794",
+          "Duration": "0:00:01.503748",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:43:13.073107",
+          "End": "2023-04-20 16:43:14.276405",
+          "Duration": "0:00:01.203298",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:43:14.431582",
+          "End": "2023-04-20 16:43:14.732556",
+          "Duration": "0:00:00.300974",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:44:05.834892",
+          "End": "2023-04-20 16:44:18.458926",
+          "Duration": "0:00:12.624034",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:44:18.575312",
+          "End": "2023-04-20 16:44:42.621801",
+          "Duration": "0:00:24.046489",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:44:42.777727",
+          "End": "2023-04-20 16:44:45.483154",
+          "Duration": "0:00:02.705427",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:44:46.486214",
+          "End": "2023-04-20 16:44:46.786980",
+          "Duration": "0:00:00.300766",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:44:46.898049",
+          "End": "2023-04-20 16:44:48.100675",
+          "Duration": "0:00:01.202626",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:44:48.209880",
+          "End": "2023-04-20 16:44:59.030921",
+          "Duration": "0:00:10.821041",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:44:59.142995",
+          "End": "2023-04-20 16:45:00.345604",
+          "Duration": "0:00:01.202609",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:01.515471",
+          "End": "2023-04-20 16:45:01.816268",
+          "Duration": "0:00:00.300797",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:01.926499",
+          "End": "2023-04-20 16:45:03.129055",
+          "Duration": "0:00:01.202556",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:03.612209",
+          "End": "2023-04-20 16:45:04.213586",
+          "Duration": "0:00:00.601377",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:04.324347",
+          "End": "2023-04-20 16:45:05.526865",
+          "Duration": "0:00:01.202518",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:06.698549",
+          "End": "2023-04-20 16:45:06.999307",
+          "Duration": "0:00:00.300758",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:07.109877",
+          "End": "2023-04-20 16:45:07.711288",
+          "Duration": "0:00:00.601411",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:07.821225",
+          "End": "2023-04-20 16:45:08.422547",
+          "Duration": "0:00:00.601322",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:09.593321",
+          "End": "2023-04-20 16:45:09.894105",
+          "Duration": "0:00:00.300784",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:11.069116",
+          "End": "2023-04-20 16:45:11.369967",
+          "Duration": "0:00:00.300851",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:11.481117",
+          "End": "2023-04-20 16:45:12.984265",
+          "Duration": "0:00:01.503148",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:25.785525",
+          "End": "2023-04-20 16:45:29.395776",
+          "Duration": "0:00:03.610251",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:29.614185",
+          "End": "2023-04-20 16:45:30.516595",
+          "Duration": "0:00:00.902410",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:30.733336",
+          "End": "2023-04-20 16:45:32.838562",
+          "Duration": "0:00:02.105226",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:33.048340",
+          "End": "2023-04-20 16:45:36.356672",
+          "Duration": "0:00:03.308332",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:36.571584",
+          "End": "2023-04-20 16:45:38.676880",
+          "Duration": "0:00:02.105296",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:38.860846",
+          "End": "2023-04-20 16:45:41.567536",
+          "Duration": "0:00:02.706690",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:41.799128",
+          "End": "2023-04-20 16:45:43.002097",
+          "Duration": "0:00:01.202969",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:43.221552",
+          "End": "2023-04-20 16:45:44.725229",
+          "Duration": "0:00:01.503677",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:44.960601",
+          "End": "2023-04-20 16:45:45.562206",
+          "Duration": "0:00:00.601605",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:45.787708",
+          "End": "2023-04-20 16:45:46.689926",
+          "Duration": "0:00:00.902218",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:46.924015",
+          "End": "2023-04-20 16:45:50.834002",
+          "Duration": "0:00:03.909987",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:51.059831",
+          "End": "2023-04-20 16:45:51.962226",
+          "Duration": "0:00:00.902395",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:52.182227",
+          "End": "2023-04-20 16:45:52.783819",
+          "Duration": "0:00:00.601592",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:45:53.012980",
+          "End": "2023-04-20 16:46:00.531074",
+          "Duration": "0:00:07.518094",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:00.755105",
+          "End": "2023-04-20 16:46:06.168620",
+          "Duration": "0:00:05.413515",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:06.388710",
+          "End": "2023-04-20 16:46:15.711988",
+          "Duration": "0:00:09.323278",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:15.957363",
+          "End": "2023-04-20 16:46:21.672208",
+          "Duration": "0:00:05.714845",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:21.902567",
+          "End": "2023-04-20 16:46:27.015091",
+          "Duration": "0:00:05.112524",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:27.238846",
+          "End": "2023-04-20 16:46:38.065335",
+          "Duration": "0:00:10.826489",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:38.301970",
+          "End": "2023-04-20 16:46:44.316284",
+          "Duration": "0:00:06.014314",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:44.552024",
+          "End": "2023-04-20 16:46:45.754999",
+          "Duration": "0:00:01.202975",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:45.997860",
+          "End": "2023-04-20 16:46:47.200989",
+          "Duration": "0:00:01.203129",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:47.409786",
+          "End": "2023-04-20 16:46:48.612967",
+          "Duration": "0:00:01.203181",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:48.854594",
+          "End": "2023-04-20 16:46:50.358353",
+          "Duration": "0:00:01.503759",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:50.606894",
+          "End": "2023-04-20 16:46:52.112510",
+          "Duration": "0:00:01.505616",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:52.347942",
+          "End": "2023-04-20 16:46:53.250208",
+          "Duration": "0:00:00.902266",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:53.492596",
+          "End": "2023-04-20 16:46:54.695776",
+          "Duration": "0:00:01.203180",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:54.953812",
+          "End": "2023-04-20 16:46:56.156747",
+          "Duration": "0:00:01.202935",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:56.391077",
+          "End": "2023-04-20 16:46:56.992644",
+          "Duration": "0:00:00.601567",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:57.247864",
+          "End": "2023-04-20 16:46:57.548836",
+          "Duration": "0:00:00.300972",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:57.774122",
+          "End": "2023-04-20 16:46:58.375902",
+          "Duration": "0:00:00.601780",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:46:58.623382",
+          "End": "2023-04-20 16:47:06.443408",
+          "Duration": "0:00:07.820026",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:47:06.704549",
+          "End": "2023-04-20 16:47:34.974591",
+          "Duration": "0:00:28.270042",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:47:35.219863",
+          "End": "2023-04-20 16:47:35.520890",
+          "Duration": "0:00:00.301027",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:47:35.753235",
+          "End": "2023-04-20 16:47:36.054296",
+          "Duration": "0:00:00.301061",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:47:36.319803",
+          "End": "2023-04-20 16:47:36.620759",
+          "Duration": "0:00:00.300956",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:47:36.847920",
+          "End": "2023-04-20 16:47:37.148945",
+          "Duration": "0:00:00.301025",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:47:37.417377",
+          "End": "2023-04-20 16:47:37.718328",
+          "Duration": "0:00:00.300951",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:47:37.946458",
+          "End": "2023-04-20 16:47:38.548326",
+          "Duration": "0:00:00.601868",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:47:38.818047",
+          "End": "2023-04-20 16:47:39.118984",
+          "Duration": "0:00:00.300937",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:23.390488",
+          "End": "2023-04-20 16:48:24.393146",
+          "Duration": "0:00:01.002658",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:24.671346",
+          "End": "2023-04-20 16:48:25.673007",
+          "Duration": "0:00:01.001661",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:25.951501",
+          "End": "2023-04-20 16:48:26.952443",
+          "Duration": "0:00:01.000942",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:27.242529",
+          "End": "2023-04-20 16:48:30.247128",
+          "Duration": "0:00:03.004599",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:30.495210",
+          "End": "2023-04-20 16:48:31.496752",
+          "Duration": "0:00:01.001542",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:31.739429",
+          "End": "2023-04-20 16:48:32.740404",
+          "Duration": "0:00:01.000975",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:33.008761",
+          "End": "2023-04-20 16:48:35.011910",
+          "Duration": "0:00:02.003149",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:35.289293",
+          "End": "2023-04-20 16:48:41.298146",
+          "Duration": "0:00:06.008853",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:41.581687",
+          "End": "2023-04-20 16:48:42.583416",
+          "Duration": "0:00:01.001729",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:42.841717",
+          "End": "2023-04-20 16:48:44.844864",
+          "Duration": "0:00:02.003147",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:45.131601",
+          "End": "2023-04-20 16:48:46.133259",
+          "Duration": "0:00:01.001658",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:46.429869",
+          "End": "2023-04-20 16:48:49.434454",
+          "Duration": "0:00:03.004585",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:49.704141",
+          "End": "2023-04-20 16:48:51.706184",
+          "Duration": "0:00:02.002043",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:51.999399",
+          "End": "2023-04-20 16:48:54.002628",
+          "Duration": "0:00:02.003229",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:54.298569",
+          "End": "2023-04-20 16:48:56.301749",
+          "Duration": "0:00:02.003180",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:56.593687",
+          "End": "2023-04-20 16:48:57.594652",
+          "Duration": "0:00:01.000965",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:57.889941",
+          "End": "2023-04-20 16:48:58.890901",
+          "Duration": "0:00:01.000960",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:48:59.186917",
+          "End": "2023-04-20 16:49:00.190350",
+          "Duration": "0:00:01.003433",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:49:00.489876",
+          "End": "2023-04-20 16:49:02.493013",
+          "Duration": "0:00:02.003137",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:49:02.794185",
+          "End": "2023-04-20 16:49:06.800448",
+          "Duration": "0:00:04.006263",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:49:56.935591",
+          "End": "2023-04-20 16:49:57.938388",
+          "Duration": "0:00:01.002797",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:49:58.726617",
+          "End": "2023-04-20 16:50:00.730233",
+          "Duration": "0:00:02.003616",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:01.527353",
+          "End": "2023-04-20 16:50:04.533408",
+          "Duration": "0:00:03.006055",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:05.325203",
+          "End": "2023-04-20 16:50:07.329136",
+          "Duration": "0:00:02.003933",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:08.143112",
+          "End": "2023-04-20 16:50:10.147045",
+          "Duration": "0:00:02.003933",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:10.956874",
+          "End": "2023-04-20 16:50:12.459526",
+          "Duration": "0:00:01.502652",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:13.269177",
+          "End": "2023-04-20 16:50:16.274977",
+          "Duration": "0:00:03.005800",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:17.083675",
+          "End": "2023-04-20 16:50:18.085724",
+          "Duration": "0:00:01.002049",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:18.890571",
+          "End": "2023-04-20 16:50:20.394689",
+          "Duration": "0:00:01.504118",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:21.185204",
+          "End": "2023-04-20 16:50:22.187233",
+          "Duration": "0:00:01.002029",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:23.005250",
+          "End": "2023-04-20 16:50:28.014504",
+          "Duration": "0:00:05.009254",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:28.853853",
+          "End": "2023-04-20 16:50:30.356830",
+          "Duration": "0:00:01.502977",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:31.182697",
+          "End": "2023-04-20 16:50:32.685588",
+          "Duration": "0:00:01.502891",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:33.519741",
+          "End": "2023-04-20 16:50:34.521655",
+          "Duration": "0:00:01.001914",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:35.354474",
+          "End": "2023-04-20 16:50:36.356379",
+          "Duration": "0:00:01.001905",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:50:37.180125",
+          "End": "2023-04-20 16:50:39.685100",
+          "Duration": "0:00:02.504975",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 16:53:07.759434",
+          "End": "2023-04-20 23:36:25.648342",
+          "Duration": "6:43:17.888908",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:36:26.412215",
+          "End": "2023-04-20 23:37:10.598466",
+          "Duration": "0:00:44.186251",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:37:11.569085",
+          "End": "2023-04-20 23:37:28.101294",
+          "Duration": "0:00:16.532209",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:37:28.523696",
+          "End": "2023-04-20 23:40:40.002095",
+          "Duration": "0:03:11.478399",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:40:40.427641",
+          "End": "2023-04-20 23:42:22.327478",
+          "Duration": "0:01:41.899837",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:42:22.748586",
+          "End": "2023-04-20 23:46:50.263596",
+          "Duration": "0:04:27.515010",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:46:50.684949",
+          "End": "2023-04-20 23:49:32.692913",
+          "Duration": "0:02:42.007964",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:49:33.114364",
+          "End": "2023-04-20 23:50:42.549412",
+          "Duration": "0:01:09.435048",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:50:42.971541",
+          "End": "2023-04-20 23:50:54.094111",
+          "Duration": "0:00:11.122570",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:50:54.515540",
+          "End": "2023-04-20 23:53:02.869554",
+          "Duration": "0:02:08.354014",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:53:03.291864",
+          "End": "2023-04-20 23:55:45.006095",
+          "Duration": "0:02:41.714231",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:55:51.848817",
+          "End": "2023-04-20 23:57:10.600075",
+          "Duration": "0:01:18.751258",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:57:11.041436",
+          "End": "2023-04-20 23:58:03.941581",
+          "Duration": "0:00:52.900145",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:58:04.365830",
+          "End": "2023-04-20 23:58:22.699902",
+          "Duration": "0:00:18.334072",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-20 23:58:24.184816",
+          "End": "2023-04-21 00:02:09.308369",
+          "Duration": "0:03:45.123553",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:09.727454",
+          "End": "2023-04-21 00:02:10.328543",
+          "Duration": "0:00:00.601089",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:10.756900",
+          "End": "2023-04-21 00:02:11.358013",
+          "Duration": "0:00:00.601113",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:11.781012",
+          "End": "2023-04-21 00:02:12.983254",
+          "Duration": "0:00:01.202242",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:13.400290",
+          "End": "2023-04-21 00:02:14.001408",
+          "Duration": "0:00:00.601118",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:14.444829",
+          "End": "2023-04-21 00:02:15.346661",
+          "Duration": "0:00:00.901832",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:15.786170",
+          "End": "2023-04-21 00:02:16.687854",
+          "Duration": "0:00:00.901684",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:17.111489",
+          "End": "2023-04-21 00:02:18.614361",
+          "Duration": "0:00:01.502872",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:19.040728",
+          "End": "2023-04-21 00:02:20.242972",
+          "Duration": "0:00:01.202244",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:20.666540",
+          "End": "2023-04-21 00:02:23.371461",
+          "Duration": "0:00:02.704921",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:23.796292",
+          "End": "2023-04-21 00:02:24.397491",
+          "Duration": "0:00:00.601199",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:24.821788",
+          "End": "2023-04-21 00:02:28.728900",
+          "Duration": "0:00:03.907112",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:29.146024",
+          "End": "2023-04-21 00:02:29.747216",
+          "Duration": "0:00:00.601192",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:30.169899",
+          "End": "2023-04-21 00:02:31.372130",
+          "Duration": "0:00:01.202231",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:31.797286",
+          "End": "2023-04-21 00:02:32.698979",
+          "Duration": "0:00:00.901693",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:33.116869",
+          "End": "2023-04-21 00:02:33.718050",
+          "Duration": "0:00:00.601181",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:02:34.141671",
+          "End": "2023-04-21 00:03:13.832897",
+          "Duration": "0:00:39.691226",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:03:14.255902",
+          "End": "2023-04-21 00:03:21.469647",
+          "Duration": "0:00:07.213745",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:03:21.894868",
+          "End": "2023-04-21 00:03:24.599977",
+          "Duration": "0:00:02.705109",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:03:25.026930",
+          "End": "2023-04-21 00:04:22.133640",
+          "Duration": "0:00:57.106710",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:04:22.559965",
+          "End": "2023-04-21 00:10:21.146546",
+          "Duration": "0:05:58.586581",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:10:21.572274",
+          "End": "2023-04-21 00:18:57.959592",
+          "Duration": "0:08:36.387318",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:18:58.389294",
+          "End": "2023-04-21 00:20:44.191122",
+          "Duration": "0:01:45.801828",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:20:44.608739",
+          "End": "2023-04-21 00:20:45.811022",
+          "Duration": "0:00:01.202283",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:20:46.240813",
+          "End": "2023-04-21 00:20:47.443073",
+          "Duration": "0:00:01.202260",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:20:47.871547",
+          "End": "2023-04-21 00:20:48.773194",
+          "Duration": "0:00:00.901647",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:20:49.198060",
+          "End": "2023-04-21 00:20:50.099781",
+          "Duration": "0:00:00.901721",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:20:50.525584",
+          "End": "2023-04-21 00:20:54.733610",
+          "Duration": "0:00:04.208026",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:20:55.151887",
+          "End": "2023-04-21 00:20:56.053604",
+          "Duration": "0:00:00.901717",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:20:56.479848",
+          "End": "2023-04-21 00:20:58.583551",
+          "Duration": "0:00:02.103703",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:20:59.009936",
+          "End": "2023-04-21 00:21:14.639380",
+          "Duration": "0:00:15.629444",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:15.064909",
+          "End": "2023-04-21 00:21:16.267193",
+          "Duration": "0:00:01.202284",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:16.684335",
+          "End": "2023-04-21 00:21:17.886609",
+          "Duration": "0:00:01.202274",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:18.303608",
+          "End": "2023-04-21 00:21:18.904696",
+          "Duration": "0:00:00.601088",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:19.328037",
+          "End": "2023-04-21 00:21:20.830828",
+          "Duration": "0:00:01.502791",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:21.256541",
+          "End": "2023-04-21 00:21:22.458882",
+          "Duration": "0:00:01.202341",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:22.884002",
+          "End": "2023-04-21 00:21:24.687460",
+          "Duration": "0:00:01.803458",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:25.106008",
+          "End": "2023-04-21 00:21:28.111813",
+          "Duration": "0:00:03.005805",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:28.530034",
+          "End": "2023-04-21 00:21:54.681250",
+          "Duration": "0:00:26.151216",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:21:55.107492",
+          "End": "2023-04-21 00:22:01.118863",
+          "Duration": "0:00:06.011371",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:22:01.535899",
+          "End": "2023-04-21 00:22:05.443586",
+          "Duration": "0:00:03.907687",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:22:05.861393",
+          "End": "2023-04-21 00:22:08.867198",
+          "Duration": "0:00:03.005805",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:22:09.284834",
+          "End": "2023-04-21 00:22:36.638510",
+          "Duration": "0:00:27.353676",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:22:38.074380",
+          "End": "2023-04-21 00:50:01.333317",
+          "Duration": "0:27:23.258937",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:01.760625",
+          "End": "2023-04-21 00:50:04.766155",
+          "Duration": "0:00:03.005530",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:05.192926",
+          "End": "2023-04-21 00:50:08.499249",
+          "Duration": "0:00:03.306323",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:08.918608",
+          "End": "2023-04-21 00:50:09.519962",
+          "Duration": "0:00:00.601354",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:09.938304",
+          "End": "2023-04-21 00:50:11.140553",
+          "Duration": "0:00:01.202249",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:11.559391",
+          "End": "2023-04-21 00:50:12.461090",
+          "Duration": "0:00:00.901699",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:12.881671",
+          "End": "2023-04-21 00:50:13.482772",
+          "Duration": "0:00:00.601101",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:13.916431",
+          "End": "2023-04-21 00:50:14.517560",
+          "Duration": "0:00:00.601129",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:14.937167",
+          "End": "2023-04-21 00:50:53.710761",
+          "Duration": "0:00:38.773594",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:54.136695",
+          "End": "2023-04-21 00:50:57.142215",
+          "Duration": "0:00:03.005520",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:50:57.569898",
+          "End": "2023-04-21 00:51:00.575606",
+          "Duration": "0:00:03.005708",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:51:00.993615",
+          "End": "2023-04-21 00:51:04.900787",
+          "Duration": "0:00:03.907172",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:51:05.330957",
+          "End": "2023-04-21 00:51:10.741197",
+          "Duration": "0:00:05.410240",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:51:11.161476",
+          "End": "2023-04-21 00:51:24.987493",
+          "Duration": "0:00:13.826017",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:51:25.416583",
+          "End": "2023-04-21 00:51:41.947717",
+          "Duration": "0:00:16.531134",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:51:42.373633",
+          "End": "2023-04-21 00:52:48.800470",
+          "Duration": "0:01:06.426837",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:52:49.229722",
+          "End": "2023-04-21 00:52:52.235324",
+          "Duration": "0:00:03.005602",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:52:52.663877",
+          "End": "2023-04-21 00:52:55.969918",
+          "Duration": "0:00:03.306041",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:52:56.392057",
+          "End": "2023-04-21 00:54:33.779514",
+          "Duration": "0:01:37.387457",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:54:34.205723",
+          "End": "2023-04-21 00:54:42.321434",
+          "Duration": "0:00:08.115711",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:54:42.753840",
+          "End": "2023-04-21 00:54:45.759430",
+          "Duration": "0:00:03.005590",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:54:46.185971",
+          "End": "2023-04-21 00:54:47.087588",
+          "Duration": "0:00:00.901617",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:54:47.518833",
+          "End": "2023-04-21 00:54:48.119904",
+          "Duration": "0:00:00.601071",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:54:48.548696",
+          "End": "2023-04-21 00:54:49.149810",
+          "Duration": "0:00:00.601114",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:54:49.568707",
+          "End": "2023-04-21 00:57:55.024269",
+          "Duration": "0:03:05.455562",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:57:55.459348",
+          "End": "2023-04-21 00:58:00.268594",
+          "Duration": "0:00:04.809246",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:58:00.699126",
+          "End": "2023-04-21 00:58:03.704973",
+          "Duration": "0:00:03.005847",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:58:04.137986",
+          "End": "2023-04-21 00:58:05.641090",
+          "Duration": "0:00:01.503104",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:58:06.068883",
+          "End": "2023-04-21 00:58:07.572061",
+          "Duration": "0:00:01.503178",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:58:08.000327",
+          "End": "2023-04-21 00:58:08.601537",
+          "Duration": "0:00:00.601210",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:58:09.032371",
+          "End": "2023-04-21 00:58:10.234823",
+          "Duration": "0:00:01.202452",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:58:10.664315",
+          "End": "2023-04-21 00:58:12.167322",
+          "Duration": "0:00:01.503007",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:58:12.594923",
+          "End": "2023-04-21 00:58:13.196140",
+          "Duration": "0:00:00.601217",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 00:58:13.626471",
+          "End": "2023-04-21 10:59:43.679999",
+          "Duration": "10:01:30.053528",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 10:59:44.111035",
+          "End": "2023-04-21 22:40:59.041781",
+          "Duration": "11:41:14.930746",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-21 22:40:59.472766",
+          "End": "2023-04-23 07:53:30.541559",
+          "Duration": "1 day, 9:12:31.068793",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-23 07:53:30.972447",
+          "End": "2023-04-24 00:27:27.447327",
+          "Duration": "16:33:56.474880",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 00:27:27.900681",
+          "End": "2023-04-24 09:29:54.776048",
+          "Duration": "9:02:26.875367",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 09:29:55.224234",
+          "End": "2023-04-24 09:52:41.241830",
+          "Duration": "0:22:46.017596",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 09:52:41.680153",
+          "End": "2023-04-24 15:28:07.516011",
+          "Duration": "5:35:25.835858",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:38:07.980689",
+          "Duration": "0:00:01.805419",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:38:10.212149",
+          "Duration": "0:00:01.504055",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:38:16.065155",
+          "Duration": "0:00:05.112633",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:38:18.912172",
+          "Duration": "0:00:02.105068",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:05.540899",
+          "Duration": "0:00:31.577740",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:06.856471",
+          "Duration": "0:00:00.601391",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:27.641203",
+          "Duration": "0:00:06.917209",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:28.963601",
+          "Duration": "0:00:00.601446",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:30.551829",
+          "Duration": "0:00:00.902366",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:41.203837",
+          "Duration": "0:00:09.924258",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:42.535359",
+          "Duration": "0:00:00.601456",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:52.416922",
+          "Duration": "0:00:01.805818",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "None",
+          "End": "2023-04-24 15:39:53.784353",
+          "Duration": "0:00:00.601394",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 15:50:35.504108",
+          "End": "2023-04-24 15:50:38.813315",
+          "Duration": "0:00:03.309207",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 15:50:39.551927",
+          "End": "2023-04-24 15:50:43.160396",
+          "Duration": "0:00:03.608469",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 15:50:43.909551",
+          "End": "2023-04-24 15:52:06.913520",
+          "Duration": "0:01:23.003969",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 15:52:07.657141",
+          "End": "2023-04-24 15:52:08.258619",
+          "Duration": "0:00:00.601478",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:23:38.990435",
+          "End": "2023-04-24 16:23:40.494835",
+          "Duration": "0:00:01.504400",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:23:41.253875",
+          "End": "2023-04-24 16:23:49.073883",
+          "Duration": "0:00:07.820008",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:23:49.827520",
+          "End": "2023-04-24 16:23:54.338206",
+          "Duration": "0:00:04.510686",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:23:55.074671",
+          "End": "2023-04-24 16:23:57.480297",
+          "Duration": "0:00:02.405626",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:24:27.658990",
+          "End": "2023-04-24 16:24:29.169101",
+          "Duration": "0:00:01.510111",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:24:29.903950",
+          "End": "2023-04-24 16:24:33.512375",
+          "Duration": "0:00:03.608425",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:12.869316",
+          "End": "2023-04-24 16:25:13.772280",
+          "Duration": "0:00:00.902964",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:14.507146",
+          "End": "2023-04-24 16:25:20.822066",
+          "Duration": "0:00:06.314920",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:21.546426",
+          "End": "2023-04-24 16:25:26.358654",
+          "Duration": "0:00:04.812228",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:27.105645",
+          "End": "2023-04-24 16:25:28.007699",
+          "Duration": "0:00:00.902054",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:28.767633",
+          "End": "2023-04-24 16:25:30.572089",
+          "Duration": "0:00:01.804456",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:31.312699",
+          "End": "2023-04-24 16:25:32.515688",
+          "Duration": "0:00:01.202989",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:33.269624",
+          "End": "2023-04-24 16:25:36.577656",
+          "Duration": "0:00:03.308032",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:37.336752",
+          "End": "2023-04-24 16:25:40.345757",
+          "Duration": "0:00:03.009005",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:25:41.099931",
+          "End": "2023-04-24 16:26:09.372510",
+          "Duration": "0:00:28.272579",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:26:10.088153",
+          "End": "2023-04-24 16:26:10.690310",
+          "Duration": "0:00:00.602157",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:34:11.063154",
+          "End": "2023-04-24 16:34:11.966517",
+          "Duration": "0:00:00.903363",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:34:12.726031",
+          "End": "2023-04-24 16:34:13.327560",
+          "Duration": "0:00:00.601529",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:34:14.090870",
+          "End": "2023-04-24 16:34:17.999945",
+          "Duration": "0:00:03.909075",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:34:18.769676",
+          "End": "2023-04-24 16:34:20.273616",
+          "Duration": "0:00:01.503940",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:36:30.211050",
+          "End": "2023-04-24 16:36:42.540936",
+          "Duration": "0:00:12.329886",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:08.344100",
+          "End": "2023-04-24 16:37:11.853350",
+          "Duration": "0:00:03.509250",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:12.480737",
+          "End": "2023-04-24 16:37:16.290093",
+          "Duration": "0:00:03.809356",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:16.952818",
+          "End": "2023-04-24 16:37:19.258456",
+          "Duration": "0:00:02.305638",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:19.934200",
+          "End": "2023-04-24 16:37:21.638759",
+          "Duration": "0:00:01.704559",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:22.275366",
+          "End": "2023-04-24 16:37:23.678996",
+          "Duration": "0:00:01.403630",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:24.346204",
+          "End": "2023-04-24 16:37:25.148212",
+          "Duration": "0:00:00.802008",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:25.810727",
+          "End": "2023-04-24 16:37:27.514757",
+          "Duration": "0:00:01.704030",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:28.188132",
+          "End": "2023-04-24 16:37:29.290775",
+          "Duration": "0:00:01.102643",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:29.956061",
+          "End": "2023-04-24 16:37:31.660200",
+          "Duration": "0:00:01.704139",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:37:32.301789",
+          "End": "2023-04-24 16:38:17.008838",
+          "Duration": "0:00:44.707049",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:17.691321",
+          "End": "2023-04-24 16:38:18.192554",
+          "Duration": "0:00:00.501233",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:18.827745",
+          "End": "2023-04-24 16:38:19.329092",
+          "Duration": "0:00:00.501347",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:20.009394",
+          "End": "2023-04-24 16:38:20.510729",
+          "Duration": "0:00:00.501335",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:21.187796",
+          "End": "2023-04-24 16:38:21.688996",
+          "Duration": "0:00:00.501200",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:22.374042",
+          "End": "2023-04-24 16:38:22.875272",
+          "Duration": "0:00:00.501230",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:23.580076",
+          "End": "2023-04-24 16:38:24.081307",
+          "Duration": "0:00:00.501231",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:42.230845",
+          "End": "2023-04-24 16:38:44.639473",
+          "Duration": "0:00:02.408628",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:45.369526",
+          "End": "2023-04-24 16:38:49.582538",
+          "Duration": "0:00:04.213012",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:50.273033",
+          "End": "2023-04-24 16:38:51.075360",
+          "Duration": "0:00:00.802327",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:51.755942",
+          "End": "2023-04-24 16:38:52.959644",
+          "Duration": "0:00:01.203702",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:53.654500",
+          "End": "2023-04-24 16:38:54.657782",
+          "Duration": "0:00:01.003282",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:55.365067",
+          "End": "2023-04-24 16:38:55.766329",
+          "Duration": "0:00:00.401262",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:56.452326",
+          "End": "2023-04-24 16:38:57.054125",
+          "Duration": "0:00:00.601799",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:57.740329",
+          "End": "2023-04-24 16:38:58.342145",
+          "Duration": "0:00:00.601816",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:38:59.046424",
+          "End": "2023-04-24 16:38:59.447531",
+          "Duration": "0:00:00.401107",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:39:00.140290",
+          "End": "2023-04-24 16:39:01.745144",
+          "Duration": "0:00:01.604854",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:39:02.432754",
+          "End": "2023-04-24 16:39:02.833993",
+          "Duration": "0:00:00.401239",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:39:03.523490",
+          "End": "2023-04-24 16:39:03.924750",
+          "Duration": "0:00:00.401260",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:39:04.626796",
+          "End": "2023-04-24 16:39:09.641859",
+          "Duration": "0:00:05.015063",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:39:26.020344",
+          "End": "2023-04-24 16:39:40.654263",
+          "Duration": "0:00:14.633919",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:39:40.993316",
+          "End": "2023-04-24 16:39:44.602191",
+          "Duration": "0:00:03.608875",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:39:44.937810",
+          "End": "2023-04-24 16:39:48.345755",
+          "Duration": "0:00:03.407945",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 16:39:48.679710",
+          "End": "2023-04-24 18:09:27.845795",
+          "Duration": "1:29:39.166085",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 18:09:28.184852",
+          "End": "2023-04-24 20:42:46.237128",
+          "Duration": "2:33:18.052276",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-24 20:42:46.576221",
+          "End": "2023-04-25 10:26:46.252463",
+          "Duration": "13:43:59.676242",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:35:08.801178",
+          "End": "2023-04-26 15:36:43.470293",
+          "Duration": "0:01:34.669115",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:36:43.827082",
+          "End": "2023-04-26 15:36:50.243028",
+          "Duration": "0:00:06.415946",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:36:50.582437",
+          "End": "2023-04-26 15:36:54.392199",
+          "Duration": "0:00:03.809762",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:36:54.730636",
+          "End": "2023-04-26 15:36:55.933649",
+          "Duration": "0:00:01.203013",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:36:56.271927",
+          "End": "2023-04-26 15:36:58.677913",
+          "Duration": "0:00:02.405986",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:36:59.014583",
+          "End": "2023-04-26 15:37:00.417979",
+          "Duration": "0:00:01.403396",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:37:00.754194",
+          "End": "2023-04-26 15:37:02.157749",
+          "Duration": "0:00:01.403555",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:37:02.499777",
+          "End": "2023-04-26 15:42:18.073113",
+          "Duration": "0:05:15.573336",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:42:18.412558",
+          "End": "2023-04-26 15:42:22.823217",
+          "Duration": "0:00:04.410659",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-26 15:52:27.306649",
+          "End": "2023-04-27 17:45:28.256947",
+          "Duration": "1 day, 1:53:00.950298",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-27 18:00:01.183365",
+          "End": "2023-04-28 00:01:13.279661",
+          "Duration": "6:01:12.096296",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-28 00:01:14.639635",
+          "End": "2023-04-28 00:38:10.337959",
+          "Duration": "0:36:55.698324",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-28 00:38:10.725937",
+          "End": "2023-04-28 23:41:13.747433",
+          "Duration": "23:03:03.021496",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-28 23:41:14.088388",
+          "End": "2023-04-29 02:33:39.276517",
+          "Duration": "2:52:25.188129",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-29 02:33:39.615806",
+          "End": "2023-04-29 02:33:40.016650",
+          "Duration": "0:00:00.400844",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-29 02:33:40.373771",
+          "End": "2023-04-29 02:33:40.774610",
+          "Duration": "0:00:00.400839",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-29 02:33:41.114714",
+          "End": "2023-04-30 14:03:30.556410",
+          "Duration": "1 day, 11:29:49.441696",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-04-30 14:03:30.937161",
+          "End": "2023-05-02 08:19:04.874954",
+          "Duration": "1 day, 18:15:33.937793",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-02 08:17:18.690014",
+          "End": "2023-05-03 13:53:21.453339",
+          "Duration": "1 day, 5:36:02.763325",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-03 13:53:21.794207",
+          "End": "2023-05-03 13:53:25.801968",
+          "Duration": "0:00:04.007761",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-03 13:53:26.145370",
+          "End": "2023-05-03 13:53:28.750637",
+          "Duration": "0:00:02.605267",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-03 13:53:29.091898",
+          "End": "2023-05-03 13:53:41.115272",
+          "Duration": "0:00:12.023374",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-03 13:53:41.455800",
+          "End": "2023-05-03 13:53:41.856670",
+          "Duration": "0:00:00.400870",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-03 13:53:42.196259",
+          "End": "2023-05-03 15:00:21.861062",
+          "Duration": "1:06:39.664803",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-03 15:00:22.201139",
+          "End": "2023-05-04 00:59:38.864811",
+          "Duration": "9:59:16.663672",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-04 08:17:19.513752",
+          "End": "2023-05-04 11:14:10.876515",
+          "Duration": "2:56:51.362763",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-04 11:14:11.219578",
+          "End": "2023-05-04 12:10:23.440973",
+          "Duration": "0:56:12.221395",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-04 12:10:23.782632",
+          "End": "2023-05-04 12:15:35.567332",
+          "Duration": "0:05:11.784700",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-04 12:15:35.908881",
+          "End": "2023-05-04 12:16:09.371009",
+          "Duration": "0:00:33.462128",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-04 12:16:09.713848",
+          "End": "2023-05-04 15:42:36.954179",
+          "Duration": "3:26:27.240331",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-04 16:10:01.377881",
+          "End": "2023-05-05 14:48:51.746750",
+          "Duration": "22:38:50.368869",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-05 14:48:52.088469",
+          "End": "2023-05-05 15:52:11.603300",
+          "Duration": "1:03:19.514831",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-05 15:52:11.953745",
+          "End": "2023-05-05 15:52:14.759249",
+          "Duration": "0:00:02.805504",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-09 08:18:10.725648",
+          "End": "2023-05-09 11:29:21.976443",
+          "Duration": "3:11:11.250795",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-09 11:29:22.318874",
+          "End": "2023-05-09 12:52:03.702085",
+          "Duration": "1:22:41.383211",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-09 12:52:04.045402",
+          "End": "2023-05-09 16:30:18.758863",
+          "Duration": "3:38:14.713461",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-09 16:30:19.103218",
+          "End": "2023-05-09 17:10:25.002090",
+          "Duration": "0:40:05.898872",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-09 17:10:25.349895",
+          "End": "2023-05-09 17:10:42.582354",
+          "Duration": "0:00:17.232459",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-09 17:10:42.924459",
+          "End": "2023-05-09 17:10:43.325335",
+          "Duration": "0:00:00.400876",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 13:40:31.972485",
+          "End": "2023-05-11 14:05:37.866959",
+          "Duration": "0:25:05.894474",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 14:05:38.212469",
+          "End": "2023-05-11 14:08:03.361112",
+          "Duration": "0:02:25.148643",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 14:08:03.726886",
+          "End": "2023-05-11 14:09:35.345159",
+          "Duration": "0:01:31.618273",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 14:09:35.699869",
+          "End": "2023-05-11 14:09:36.100937",
+          "Duration": "0:00:00.401068",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 14:09:36.456113",
+          "End": "2023-05-11 14:09:37.057623",
+          "Duration": "0:00:00.601510",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 14:09:37.400844",
+          "End": "2023-05-11 14:09:37.801886",
+          "Duration": "0:00:00.401042",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 14:09:38.145621",
+          "End": "2023-05-11 14:17:02.995020",
+          "Duration": "0:07:24.849399",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 14:17:03.343083",
+          "End": "2023-05-11 14:43:26.848389",
+          "Duration": "0:26:23.505306",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 14:43:27.187740",
+          "End": "2023-05-11 16:03:22.294070",
+          "Duration": "1:19:55.106330",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:03:22.637686",
+          "End": "2023-05-11 16:22:17.451571",
+          "Duration": "0:18:54.813885",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:22:17.817891",
+          "End": "2023-05-11 16:22:18.218873",
+          "Duration": "0:00:00.400982",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:22:18.558816",
+          "End": "2023-05-11 16:22:19.962223",
+          "Duration": "0:00:01.403407",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:22:20.308183",
+          "End": "2023-05-11 16:22:20.709225",
+          "Duration": "0:00:00.401042",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:22:21.061105",
+          "End": "2023-05-11 16:22:21.662538",
+          "Duration": "0:00:00.601433",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:22:22.006032",
+          "End": "2023-05-11 16:22:22.407039",
+          "Duration": "0:00:00.401007",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:22:22.757038",
+          "End": "2023-05-11 16:24:35.065817",
+          "Duration": "0:02:12.308779",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:24:35.433108",
+          "End": "2023-05-11 16:24:36.034468",
+          "Duration": "0:00:00.601360",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:24:36.378336",
+          "End": "2023-05-11 16:45:11.820102",
+          "Duration": "0:20:35.441766",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:45:12.165779",
+          "End": "2023-05-11 16:45:22.589723",
+          "Duration": "0:00:10.423944",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:45:22.934983",
+          "End": "2023-05-11 16:45:23.335958",
+          "Duration": "0:00:00.400975",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-11 16:45:23.681010",
+          "End": "2023-05-11 16:45:24.081954",
+          "Duration": "0:00:00.400944",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-12 12:26:03.824480",
+          "End": "2023-05-12 12:37:48.725953",
+          "Duration": "0:11:44.901473",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-12 15:17:16.449465",
+          "End": "2023-05-16 10:43:01.690554",
+          "Duration": "3 days, 19:25:45.241089",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 10:43:02.035706",
+          "End": "2023-05-16 13:00:37.719359",
+          "Duration": "2:17:35.683653",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 13:00:38.075394",
+          "End": "2023-05-16 13:31:12.752465",
+          "Duration": "0:30:34.677071",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 13:31:13.148468",
+          "End": "2023-05-16 13:31:15.153078",
+          "Duration": "0:00:02.004610",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 13:31:15.497562",
+          "End": "2023-05-16 13:31:16.099087",
+          "Duration": "0:00:00.601525",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 13:31:16.448261",
+          "End": "2023-05-16 14:32:03.858535",
+          "Duration": "1:00:47.410274",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 14:32:04.201222",
+          "End": "2023-05-16 14:32:44.894572",
+          "Duration": "0:00:40.693350",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 14:32:45.241653",
+          "End": "2023-05-16 14:38:26.422152",
+          "Duration": "0:05:41.180499",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 14:38:26.768182",
+          "End": "2023-05-16 14:38:33.784552",
+          "Duration": "0:00:07.016370",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 14:38:34.127850",
+          "End": "2023-05-16 14:38:35.130159",
+          "Duration": "0:00:01.002309",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 14:38:35.474798",
+          "End": "2023-05-16 14:38:56.122003",
+          "Duration": "0:00:20.647205",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-16 14:48:29.680109",
+          "End": "2023-05-17 12:24:14.285318",
+          "Duration": "21:35:44.605209",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-17 12:24:14.626615",
+          "End": "2023-05-18 15:41:13.354319",
+          "Duration": "1 day, 3:16:58.727704",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-18 15:41:13.696985",
+          "End": "2023-05-19 13:33:12.828523",
+          "Duration": "21:51:59.131538",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-19 15:58:19.516255",
+          "End": "2023-05-22 14:15:21.773586",
+          "Duration": "2 days, 22:17:02.257331",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-22 14:15:22.129515",
+          "End": "2023-05-22 15:00:11.769121",
+          "Duration": "0:44:49.639606",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-23 09:17:16.559903",
+          "End": "2023-05-23 12:44:30.861517",
+          "Duration": "3:27:14.301614",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-23 16:17:16.591953",
+          "End": "2023-05-24 10:29:34.148388",
+          "Duration": "18:12:17.556435",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 10:29:34.502524",
+          "End": "2023-05-24 10:29:34.903411",
+          "Duration": "0:00:00.400887",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 10:29:35.251412",
+          "End": "2023-05-24 10:29:37.856545",
+          "Duration": "0:00:02.605133",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 10:29:38.203141",
+          "End": "2023-05-24 14:02:54.285225",
+          "Duration": "3:33:16.082084",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 14:02:54.633793",
+          "End": "2023-05-24 14:48:27.251870",
+          "Duration": "0:45:32.618077",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 14:48:27.598229",
+          "End": "2023-05-24 14:57:57.246307",
+          "Duration": "0:09:29.648078",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 14:57:57.593396",
+          "End": "2023-05-24 15:01:52.029030",
+          "Duration": "0:03:54.435634",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 15:01:52.375528",
+          "End": "2023-05-24 15:01:52.776412",
+          "Duration": "0:00:00.400884",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 15:01:53.122564",
+          "End": "2023-05-24 15:01:53.523418",
+          "Duration": "0:00:00.400854",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 15:01:53.869625",
+          "End": "2023-05-24 15:39:40.605439",
+          "Duration": "0:37:46.735814",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-24 15:29:56.649095",
+          "End": "2023-05-26 10:23:10.049743",
+          "Duration": "1 day, 18:53:13.400648",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 10:23:10.399827",
+          "End": "2023-05-26 10:30:34.217717",
+          "Duration": "0:07:23.817890",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 10:30:34.567542",
+          "End": "2023-05-26 10:38:24.638303",
+          "Duration": "0:07:50.070761",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 10:38:24.986398",
+          "End": "2023-05-26 10:59:25.312524",
+          "Duration": "0:21:00.326126",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 10:59:25.660286",
+          "End": "2023-05-26 11:53:42.091631",
+          "Duration": "0:54:16.431345",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 11:53:42.440814",
+          "End": "2023-05-26 13:22:49.193546",
+          "Duration": "1:29:06.752732",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 13:22:49.542181",
+          "End": "2023-05-26 15:16:12.106441",
+          "Duration": "1:53:22.564260",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 15:16:12.454935",
+          "End": "2023-05-26 15:29:15.500074",
+          "Duration": "0:13:03.045139",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 15:29:15.894615",
+          "End": "2023-05-26 15:29:38.336456",
+          "Duration": "0:00:22.441841",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 15:29:38.691062",
+          "End": "2023-05-26 15:29:44.301261",
+          "Duration": "0:00:05.610199",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 15:29:44.650190",
+          "End": "2023-05-26 16:41:16.127444",
+          "Duration": "1:11:31.477254",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-26 16:46:01.403806",
+          "End": "2023-05-30 13:06:26.538824",
+          "Duration": "3 days, 20:20:25.135018",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-30 13:06:26.885268",
+          "End": "2023-05-30 14:05:55.412652",
+          "Duration": "0:59:28.527384",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-30 14:05:55.761561",
+          "End": "2023-05-30 14:46:22.065653",
+          "Duration": "0:40:26.304092",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-30 15:17:16.781231",
+          "End": "2023-05-31 12:19:43.834995",
+          "Duration": "21:02:27.053764",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-31 12:19:44.184516",
+          "End": "2023-05-31 12:43:35.026591",
+          "Duration": "0:23:50.842075",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-31 12:43:35.377248",
+          "End": "2023-05-31 13:54:49.471895",
+          "Duration": "1:11:14.094647",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-31 13:54:49.822765",
+          "End": "2023-05-31 14:33:22.500788",
+          "Duration": "0:38:32.678023",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-31 14:33:22.851213",
+          "End": "2023-05-31 14:56:02.155659",
+          "Duration": "0:22:39.304446",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-31 14:56:02.513257",
+          "End": "2023-05-31 14:56:07.122386",
+          "Duration": "0:00:04.609129",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-05-31 14:23:05.597592",
+          "End": "2023-06-02 13:41:15.643938",
+          "Duration": "1 day, 23:18:10.046346",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-06-02 13:41:15.994417",
+          "End": "2023-06-02 15:06:23.186162",
+          "Duration": "1:25:07.191745",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-06-02 16:17:17.444508",
+          "End": "2023-06-09 13:53:20.503865",
+          "Duration": "6 days, 21:36:03.059357",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-06-09 13:53:20.854765",
+          "End": "2023-06-09 16:39:05.587352",
+          "Duration": "2:45:44.732587",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-06-20 16:05:29.980405",
+          "End": "2023-06-21 14:12:23.729459",
+          "Duration": "22:06:53.749054",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-06-21 14:12:24.089379",
+          "End": "2023-06-21 14:12:26.494037",
+          "Duration": "0:00:02.404658",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 09:33:11.982890",
+          "End": "2023-07-31 09:51:12.954058",
+          "Duration": "0:18:00.971168",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 09:51:13.305788",
+          "End": "2023-07-31 10:18:42.574065",
+          "Duration": "0:27:29.268277",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 10:18:42.948529",
+          "End": "2023-07-31 11:48:13.837206",
+          "Duration": "1:29:30.888677",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 11:48:14.189658",
+          "End": "2023-07-31 13:06:04.857739",
+          "Duration": "1:17:50.668081",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 13:06:05.237606",
+          "End": "2023-07-31 14:00:02.473853",
+          "Duration": "0:53:57.236247",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 14:00:02.821229",
+          "End": "2023-07-31 14:08:12.544602",
+          "Duration": "0:08:09.723373",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 14:08:12.895992",
+          "End": "2023-07-31 14:08:13.898444",
+          "Duration": "0:00:01.002452",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 14:08:14.249211",
+          "End": "2023-07-31 14:08:15.852743",
+          "Duration": "0:00:01.603532",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-07-31 14:07:03.628850",
+          "End": "2023-08-08 11:49:44.877670",
+          "Duration": "7 days, 21:42:41.248820",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 11:49:45.760106",
+          "End": "2023-08-08 11:49:53.978071",
+          "Duration": "0:00:08.217965",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 11:57:18.791046",
+          "End": "2023-08-08 11:57:23.406594",
+          "Duration": "0:00:04.615548",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 11:57:24.400605",
+          "End": "2023-08-08 11:57:25.804848",
+          "Duration": "0:00:01.404243",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 11:57:26.773482",
+          "End": "2023-08-08 11:57:30.987888",
+          "Duration": "0:00:04.214406",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 11:57:31.961316",
+          "End": "2023-08-08 11:57:34.970617",
+          "Duration": "0:00:03.009301",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 11:57:35.934476",
+          "End": "2023-08-08 11:57:38.743153",
+          "Duration": "0:00:02.808677",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 11:57:39.737826",
+          "End": "2023-08-08 11:57:40.941640",
+          "Duration": "0:00:01.203814",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 11:57:41.894600",
+          "End": "2023-08-08 11:57:43.699744",
+          "Duration": "0:00:01.805144",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:01:45.809160",
+          "End": "2023-08-08 12:01:52.633637",
+          "Duration": "0:00:06.824477",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:01:53.773027",
+          "End": "2023-08-08 12:01:55.177506",
+          "Duration": "0:00:01.404479",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:02:18.146780",
+          "End": "2023-08-08 12:02:40.023853",
+          "Duration": "0:00:21.877073",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:02:41.040169",
+          "End": "2023-08-08 12:04:46.980018",
+          "Duration": "0:02:05.939849",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:04:48.014037",
+          "End": "2023-08-08 12:04:49.619220",
+          "Duration": "0:00:01.605183",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:05:49.170897",
+          "End": "2023-08-08 12:06:15.029129",
+          "Duration": "0:00:25.858232",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:06:15.953188",
+          "End": "2023-08-08 12:06:19.774837",
+          "Duration": "0:00:03.821649",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:06:20.700417",
+          "End": "2023-08-08 12:06:23.213834",
+          "Duration": "0:00:02.513417",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:06:24.143490",
+          "End": "2023-08-08 12:06:25.349494",
+          "Duration": "0:00:01.206004",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:06:26.255329",
+          "End": "2023-08-08 12:06:26.456204",
+          "Duration": "0:00:00.200875",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:06:27.363394",
+          "End": "2023-08-08 12:06:27.765164",
+          "Duration": "0:00:00.401770",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:06:28.727191",
+          "End": "2023-08-08 12:06:28.928606",
+          "Duration": "0:00:00.201415",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:08:02.299019",
+          "End": "2023-08-08 12:08:26.396612",
+          "Duration": "0:00:24.097593",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:34:25.979770",
+          "End": "2023-08-08 12:37:03.672391",
+          "Duration": "0:02:37.692621",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:37:03.938861",
+          "End": "2023-08-08 12:37:36.053072",
+          "Duration": "0:00:32.114211",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 12:37:36.308014",
+          "End": "2023-08-08 13:22:15.484975",
+          "Duration": "0:44:39.176961",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 13:22:43.490630",
+          "End": "2023-08-08 13:23:29.292535",
+          "Duration": "0:00:45.801905",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 16:47:54.262868",
+          "End": "2023-08-08 16:49:43.490544",
+          "Duration": "0:01:49.227676",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 16:54:47.450468",
+          "End": "2023-08-08 16:54:50.369368",
+          "Duration": "0:00:02.918900",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 16:54:53.000862",
+          "End": "2023-08-08 16:54:53.201819",
+          "Duration": "0:00:00.200957",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 16:54:53.977595",
+          "End": "2023-08-08 16:54:55.184038",
+          "Duration": "0:00:01.206443",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 16:54:56.107829",
+          "End": "2023-08-08 16:54:57.415138",
+          "Duration": "0:00:01.307309",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 16:54:58.204493",
+          "End": "2023-08-08 16:54:59.409909",
+          "Duration": "0:00:01.205416",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 16:56:09.728962",
+          "End": "2023-08-08 16:56:12.342986",
+          "Duration": "0:00:02.614024",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 16:56:13.151901",
+          "End": "2023-08-08 16:56:15.060430",
+          "Duration": "0:00:01.908529",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 17:10:34.698081",
+          "End": "2023-08-08 17:12:32.861573",
+          "Duration": "0:01:58.163492",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 17:12:33.117752",
+          "End": "2023-08-08 17:12:36.827746",
+          "Duration": "0:00:03.709994",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-08 17:12:37.083097",
+          "End": "2023-08-08 22:51:27.932010",
+          "Duration": "5:38:50.848913",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-09 11:55:57.493034",
+          "End": "2023-08-09 11:56:10.166700",
+          "Duration": "0:00:12.673666",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-09 11:56:11.172417",
+          "End": "2023-08-09 11:56:15.796628",
+          "Duration": "0:00:04.624211",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-09 12:02:43.888737",
+          "End": "2023-08-09 12:04:27.301459",
+          "Duration": "0:01:43.412722",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-09 12:04:27.565697",
+          "End": "2023-08-09 12:04:37.801774",
+          "Duration": "0:00:10.236077",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-09 12:27:03.239876",
+          "End": "2023-08-09 12:27:19.204310",
+          "Duration": "0:00:15.964434",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-09 12:27:19.472718",
+          "End": "2023-08-09 12:27:49.469618",
+          "Duration": "0:00:29.996900",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-09 12:27:49.739396",
+          "End": "2023-08-09 12:28:27.344877",
+          "Duration": "0:00:37.605481",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-09 12:28:27.605275",
+          "End": "2023-08-09 13:22:21.887476",
+          "Duration": "0:53:54.282201",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-23 11:29:54.793067",
+          "End": "2023-08-23 11:29:55.699657",
+          "Duration": "0:00:00.906590",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-23 11:29:56.558602",
+          "End": "2023-08-23 11:29:57.664927",
+          "Duration": "0:00:01.106325",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-23 11:32:50.862802",
+          "End": "2023-08-23 11:34:06.828943",
+          "Duration": "0:01:15.966141",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-23 11:34:07.114449",
+          "End": "2023-08-23 11:34:10.023014",
+          "Duration": "0:00:02.908565",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-23 11:34:10.281238",
+          "End": "2023-08-23 11:34:30.238729",
+          "Duration": "0:00:19.957491",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-23 11:34:30.498833",
+          "End": "2023-08-23 11:37:35.314186",
+          "Duration": "0:03:04.815353",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-25 12:08:31.168244",
+          "End": "2023-08-25 12:33:02.477427",
+          "Duration": "0:24:31.309183",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-28 12:08:57.155335",
+          "End": "2023-08-28 12:12:16.754605",
+          "Duration": "0:03:19.599270",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-28 12:12:17.049285",
+          "End": "2023-08-28 13:05:44.682894",
+          "Duration": "0:53:27.633609",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-28 13:05:44.978735",
+          "End": "2023-08-28 13:51:23.229360",
+          "Duration": "0:45:38.250625",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-28 13:51:23.493575",
+          "End": "2023-08-28 18:38:18.344426",
+          "Duration": "4:46:54.850851",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-28 18:38:18.653924",
+          "End": "2023-08-28 19:06:29.333541",
+          "Duration": "0:28:10.679617",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-28 19:06:29.594435",
+          "End": "2023-08-29 10:29:21.884078",
+          "Duration": "15:22:52.289643",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-29 10:29:22.151438",
+          "End": "2023-08-30 10:09:04.835406",
+          "Duration": "23:39:42.683968",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-30 16:19:35.298199",
+          "End": "2023-08-30 16:22:03.447975",
+          "Duration": "0:02:28.149776",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-30 16:22:04.318585",
+          "End": "2023-08-30 16:22:10.038222",
+          "Duration": "0:00:05.719637",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-30 16:22:10.293293",
+          "End": "2023-08-30 16:24:21.989235",
+          "Duration": "0:02:11.695942",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-30 16:24:43.686306",
+          "End": "2023-08-30 16:26:25.271451",
+          "Duration": "0:01:41.585145",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-30 16:26:25.569791",
+          "End": "2023-08-30 16:26:47.951307",
+          "Duration": "0:00:22.381516",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-30 16:26:48.211249",
+          "End": "2023-08-30 16:26:51.322512",
+          "Duration": "0:00:03.111263",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-08-30 16:27:25.378970",
+          "End": "2023-09-01 10:06:11.137253",
+          "Duration": "1 day, 17:38:45.758283",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-01 10:09:16.230849",
+          "End": "2023-09-01 11:40:07.013435",
+          "Duration": "1:30:50.782586",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-01 11:40:07.274718",
+          "End": "2023-09-01 15:54:58.063251",
+          "Duration": "4:14:50.788533",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-01 15:54:58.323614",
+          "End": "2023-09-01 15:55:04.240251",
+          "Duration": "0:00:05.916637",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-11 16:20:21.800207",
+          "End": "2023-09-12 16:40:58.423214",
+          "Duration": "1 day, 0:20:36.623007",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-12 16:52:32.123944",
+          "End": "2023-09-14 12:54:48.082722",
+          "Duration": "1 day, 20:02:15.958778",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-14 12:54:48.343258",
+          "End": "2023-09-14 16:29:43.299719",
+          "Duration": "3:34:54.956461",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-14 16:18:51.253668",
+          "End": "2023-09-15 16:00:51.697888",
+          "Duration": "23:42:00.444220",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-15 16:00:51.958412",
+          "End": "2023-09-15 16:48:55.195988",
+          "Duration": "0:48:03.237576",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-15 16:48:55.463433",
+          "End": "2023-09-18 16:38:36.363337",
+          "Duration": "2 days, 23:49:40.899904",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 16:38:36.674980",
+          "End": "2023-09-18 17:14:01.677129",
+          "Duration": "0:35:25.002149",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:14:01.935831",
+          "End": "2023-09-18 17:16:30.046739",
+          "Duration": "0:02:28.110908",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:17:18.046006",
+          "End": "2023-09-18 17:32:58.636938",
+          "Duration": "0:15:40.590932",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:32:58.918462",
+          "End": "2023-09-18 17:33:10.050250",
+          "Duration": "0:00:11.131788",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:10.322295",
+          "End": "2023-09-18 17:33:12.027272",
+          "Duration": "0:00:01.704977",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:12.287859",
+          "End": "2023-09-18 17:33:13.992269",
+          "Duration": "0:00:01.704410",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:14.253139",
+          "End": "2023-09-18 17:33:18.063909",
+          "Duration": "0:00:03.810770",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:18.328122",
+          "End": "2023-09-18 17:33:19.932102",
+          "Duration": "0:00:01.603980",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:20.193238",
+          "End": "2023-09-18 17:33:25.110919",
+          "Duration": "0:00:04.917681",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:25.380203",
+          "End": "2023-09-18 17:33:29.391606",
+          "Duration": "0:00:04.011403",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:29.653242",
+          "End": "2023-09-18 17:33:34.366156",
+          "Duration": "0:00:04.712914",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:34.628429",
+          "End": "2023-09-18 17:33:38.138216",
+          "Duration": "0:00:03.509787",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:38.407986",
+          "End": "2023-09-18 17:33:41.416487",
+          "Duration": "0:00:03.008501",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:41.678137",
+          "End": "2023-09-18 17:33:46.591340",
+          "Duration": "0:00:04.913203",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:46.875587",
+          "End": "2023-09-18 17:33:48.780549",
+          "Duration": "0:00:01.904962",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:49.042157",
+          "End": "2023-09-18 17:33:50.044618",
+          "Duration": "0:00:01.002461",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:50.306139",
+          "End": "2023-09-18 17:33:53.013531",
+          "Duration": "0:00:02.707392",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:53.276331",
+          "End": "2023-09-18 17:33:53.476870",
+          "Duration": "0:00:00.200539",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:53.714983",
+          "End": "2023-09-18 17:33:53.915493",
+          "Duration": "0:00:00.200510",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:54.180035",
+          "End": "2023-09-18 17:33:57.991159",
+          "Duration": "0:00:03.811124",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:33:58.256978",
+          "End": "2023-09-18 17:34:01.365336",
+          "Duration": "0:00:03.108358",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:34:01.628167",
+          "End": "2023-09-18 17:34:11.856260",
+          "Duration": "0:00:10.228093",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:34:12.126400",
+          "End": "2023-09-18 17:34:14.633335",
+          "Duration": "0:00:02.506935",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-18 17:34:14.895746",
+          "End": "2023-09-19 01:36:33.499397",
+          "Duration": "8:02:18.603651",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-19 01:36:33.763056",
+          "End": "2023-09-19 01:37:11.469553",
+          "Duration": "0:00:37.706497",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-19 01:37:11.776880",
+          "End": "2023-09-19 01:37:19.598633",
+          "Duration": "0:00:07.821753",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-19 08:48:43.201407",
+          "End": "2023-09-19 14:13:59.979225",
+          "Duration": "5:25:16.777818",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-19 14:14:00.242824",
+          "End": "2023-09-19 14:14:04.654968",
+          "Duration": "0:00:04.412144",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-19 14:14:04.918460",
+          "End": "2023-09-19 14:14:07.625734",
+          "Duration": "0:00:02.707274",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-19 14:14:07.890503",
+          "End": "2023-09-20 13:15:32.243800",
+          "Duration": "23:01:24.353297",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-20 13:15:32.507358",
+          "End": "2023-09-20 13:15:39.125444",
+          "Duration": "0:00:06.618086",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-09-21 09:46:09.434106",
+          "End": "2023-10-04 13:14:47.480751",
+          "Duration": "13 days, 3:28:38.046645",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-04 13:14:47.746538",
+          "End": "2023-10-04 14:15:08.115835",
+          "Duration": "1:00:20.369297",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-04 14:15:08.397037",
+          "End": "2023-10-04 14:15:23.839503",
+          "Duration": "0:00:15.442466",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-04 14:15:24.111968",
+          "End": "2023-10-04 14:17:33.070513",
+          "Duration": "0:02:08.958545",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-04 14:17:33.335266",
+          "End": "2023-10-04 14:49:49.915894",
+          "Duration": "0:32:16.580628",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-04 14:49:50.180723",
+          "End": "2023-10-04 20:55:09.986416",
+          "Duration": "6:05:19.805693",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-04 20:55:10.251383",
+          "End": "2023-10-05 09:54:50.089997",
+          "Duration": "12:59:39.838614",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-05 09:54:50.354729",
+          "End": "2023-10-05 22:53:24.493050",
+          "Duration": "12:58:34.138321",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-05 22:53:24.759011",
+          "End": "2023-10-08 21:50:45.558539",
+          "Duration": "2 days, 22:57:20.799528",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-08 21:50:45.823833",
+          "End": "2023-10-08 23:59:12.979229",
+          "Duration": "2:08:27.155396",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-08 23:59:13.289133",
+          "End": "2023-10-09 14:41:13.664201",
+          "Duration": "14:42:00.375068",
+          "isFault": "3"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-09 14:41:13.931772",
+          "End": "2023-10-10 00:46:41.608703",
+          "Duration": "10:05:27.676931",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-10 00:46:41.873472",
+          "End": "2023-10-10 12:35:08.326425",
+          "Duration": "11:48:26.452953",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-10 12:35:08.605644",
+          "End": "2023-10-11 01:43:39.682955",
+          "Duration": "13:08:31.077311",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-11 01:43:40.966154",
+          "End": "2023-10-12 20:23:41.751435",
+          "Duration": "1 day, 18:40:00.785281",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-12 20:23:42.017424",
+          "End": "2023-10-13 09:15:58.631796",
+          "Duration": "12:52:16.614372",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-13 09:15:58.898500",
+          "End": "2023-10-13 17:40:44.810476",
+          "Duration": "8:24:45.911976",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-13 17:40:45.077701",
+          "End": "2023-10-14 03:48:18.818761",
+          "Duration": "10:07:33.741060",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-14 03:48:19.092655",
+          "End": "2023-10-16 02:04:41.444606",
+          "Duration": "1 day, 22:16:22.351951",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-16 02:04:41.710246",
+          "End": "2023-10-16 02:04:44.717856",
+          "Duration": "0:00:03.007610",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-16 02:04:44.984445",
+          "End": "2023-10-16 02:04:45.184951",
+          "Duration": "0:00:00.200506",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-16 02:04:45.426835",
+          "End": "2023-10-16 20:49:24.225473",
+          "Duration": "18:44:38.798638",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-16 20:49:24.498256",
+          "End": "2023-10-17 09:14:52.280267",
+          "Duration": "12:25:27.782011",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-17 09:14:52.548885",
+          "End": "2023-10-18 02:02:43.037219",
+          "Duration": "16:47:50.488334",
+          "isFault": "0"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-18 02:02:43.303717",
+          "End": "2023-10-19 11:51:44.323435",
+          "Duration": "1 day, 9:49:01.019718",
+          "isFault": "1"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-19 11:51:44.590438",
+          "End": "2023-10-22 23:25:42.956646",
+          "Duration": "3 days, 11:33:58.366208",
+          "isFault": "2"
+     },
+     {
+          "Machine ID": "laserleikkurikone",
+          "Start": "2023-10-22 23:25:43.223735",
+          "End": "2023-10-25 01:11:57.897585",
+          "Duration": "2 days, 1:46:14.673850",
+          "isFault": "1"
+     }
+]
