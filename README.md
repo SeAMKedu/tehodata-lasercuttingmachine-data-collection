@@ -27,6 +27,7 @@ Merkittävät muutokset julkaisuun
 |21.6.2023|Zenodo julkaisu|Saku Kaarlejärvi|
 |8.8.2023|Versio 1.1 julkaisu|Saku Kaarlejärvi|
 |24.8.2023|Versio 1.2. Päivitetty DOI ja ohjelmakoodia|Saku Kaarlejärvi|
+|20.11.2023|Versio 1.3 Power Bi raportti osuus|Saku Kaarlejärvi|
 
 # Sisällysluettelo
 - [Julkaisun nimi](#laserleikkurin-datan-keruu-ja-visualisointi)
