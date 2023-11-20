@@ -7,7 +7,7 @@ Tiedostoissa on Power BI raportti "Aikalaskenta 2023.pbix" sekä JSON -tiedosto 
 
 Avatessa Power BI esimerkki raportin täytyy avata yläpalkista Transfer Data / Muunna tiedot painikkeesta Power Query Editori ![transfer data](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/assets/35451517/488caf89-7e35-4ee7-8971-5d90b212620f) 
 
-Advanced Editorista pääset muokkaamaan M-Query tiedostoa jossa on listattu eri asetuksia. ![image](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/assets/35451517/563d0ade-23e7-4ee4-ba91-8e6b9ab5353d)
+Advanced Editorista pääset muokkaamaan M-Query tiedostoa jossa on listattu eri asetuksia. ![Advanced Editor](https://github.com/SeAMKedu/tehodata-lasercuttingmachine-data-collection/assets/35451517/563d0ade-23e7-4ee4-ba91-8e6b9ab5353d)
 
 Esiin tulee ruutu, jossa on määritetty `Json.Document(File.Contents("C:\Users\SaKa\Desktop\sshVSC\jsonBackupMachine1.json"))` Tänne muokkaamalla ladatun json tiedoston polun, voidaan tuoda data esiin ja raporttia pystytään käsittelemään.
 ```
